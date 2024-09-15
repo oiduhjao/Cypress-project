@@ -1,5 +1,5 @@
 # Cypress-project
-This project is meant to be a simple example to showcase how I work with Cypress automation framework and coding practices for e2e web UI testing.
+This project is meant to be a simple example to showcase how I work with Cypress automation framework and my coding practices for e2e web UI testing.
 Project is using https://www.saucedemo.com website spedifically ment for testing purposes.
 Cypress version used - 13.13.3 . Will be update if needed.
 
